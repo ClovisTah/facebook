@@ -1,0 +1,2 @@
+Users can log in with email and password
+Users can sign in with name, email and password
